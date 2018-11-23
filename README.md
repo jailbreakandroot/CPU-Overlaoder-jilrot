@@ -1,4 +1,4 @@
-# Python3
+# CPU Overloader
 CPU Over-loader
 This code uses fork function to overload the system (Perl).
 Mac OSX, Linux and all devices which have linux, bash installed are targeted.
